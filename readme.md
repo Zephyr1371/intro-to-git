@@ -6,3 +6,8 @@
 
 #Git Repository
 - Where all our snapshots are stored
+
+# Adding multiple file of a certain type
+# Adding all files in directory
+# Removin files
+# Ignoring files
